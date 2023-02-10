@@ -1,7 +1,7 @@
 {
 "name": "Aulia Rahman",
 "version": "1.2.3",
-"description": "Please A Subscribe Me On Youtube Aulia Rahman Official",
+"description": "Please A Subscribe Me On Youtube DcVon",
 "main": "main.js",
 "type": "commonjs",
 "scripts": {
@@ -18,7 +18,7 @@
 "bot-md",
 "multi-device"
 ],
-"author": "ZeroYT7",
+"author": "Von",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/baileys": "^4.0.1",
